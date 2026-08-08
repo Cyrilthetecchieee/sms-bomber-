@@ -1,0 +1,63 @@
+{
+    "BomBX_API": {
+        "HealthKart": {
+            "type": "sms",
+            "method": "GET",
+            "url": "https://www.healthkart.com/veronica/user/validate/1/{phone}/signup?plt=1&st=1",
+            "sleep": 20
+        },
+        "NNNOW": {
+            "type": "sms",
+            "method": "POST",
+            "url": "https://api.nnnow.com/m/mobapi/otp/generateOtp/v1/flash",
+            "data": {
+                "mobileNumber": "{phone}"
+            },
+            "sleep": 20
+        },
+        "Shiprocket": {
+            "type": "sms",
+            "method": "POST",
+            "url": "https://apiv2.shiprocket.in/v1/auth/login/quick",
+            "data": {
+                "mobile": "{phone}",
+                "device_id": "LQ3.981019.001"
+            },
+            "sleep": 20
+        },
+        "MeeHelp": {
+            "type": "sms",
+            "method": "GET",
+            "url": "https://meehelp.co.in/api/customer/msgDispatch?phone_number={phone}&key=AjSfg9FGDuo&API_KEY=70FF52C593B828281A",
+            "headers": {
+                "user-agent": "Dart/3.9 (dart:io)",
+                "accept": "application/json",
+                "accept-encoding": "gzip",
+                "host": "meehelp.co.in"
+            },
+            "data": null,
+            "sleep": 20
+        },
+        "Nathabit_WhatsApp": {
+            "type": "whatsapp",
+            "method": "POST",
+            "url": "https://authorize.api.nathabit.in/v2/auth/v2/app/no/opt/",
+            "headers": {
+                "Content-Type": "application/json",
+                "Host": "authorize.api.nathabit.in",
+                "Connection": "Keep-Alive",
+                "Accept-Encoding": "gzip",
+                "User-Agent": "okhttp/4.9.2"
+            },
+            "cookies": {
+                "cust_cart": "kT7wRpLmXv3hQdNs9YeJ"
+            },
+            "data": {
+                "phone": "{phone}",
+                "send_on_whatsapp": true,
+                "address_consent": true
+            },
+            "sleep": 30
+        }
+    }
+}
