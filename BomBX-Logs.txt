@@ -1,0 +1,183 @@
+--- [06-07-2026 20:37:44] [SUCCESS] HealthKart -> Status: 200 ---
+{"results":{"exception":false,"msgs":["Sms sent to User"],"uid":null,"uType":"signup","guestAlreadyExist":false,"stId":1,"unverifiedGuestExist":false,"userExist":false},"statusCode":200}
+--- End Response ---
+
+--- [06-07-2026 20:37:46] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc4c460e47b0008220334"}]}
+--- End Response ---
+
+--- [06-07-2026 20:37:47] [SUCCESS] Shiprocket -> Status: 204 ---
+
+--- End Response ---
+
+--- [06-07-2026 20:37:50] [SUCCESS] MeeHelp -> Status: 200 ---
+ {"status":true,"otp":3820,"message":"user found"}
+--- End Response ---
+
+--- [06-07-2026 20:37:52] [FAILED] Nathabit_WhatsApp -> Status: 401 ---
+{"detail":{"message":"Please restart the app to update. If that doesn't work, reinstall it from the store."}}
+--- End Response ---
+
+--- [06-07-2026 20:38:07] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc4d960e47b000822033d"}]}
+--- End Response ---
+
+--- [06-07-2026 20:40:20] [FAILED] Nathabit_WhatsApp -> Status: 401 ---
+{"detail":{"message":"Please restart the app to update. If that doesn't work, reinstall it from the store."}}
+--- End Response ---
+
+--- [06-07-2026 20:41:33] [SUCCESS] HealthKart -> Status: 200 ---
+{"results":{"exception":false,"msgs":["Sms sent to User"],"uid":null,"uType":"signup","guestAlreadyExist":false,"stId":1,"unverifiedGuestExist":false,"userExist":false},"statusCode":200}
+--- End Response ---
+
+--- [06-07-2026 20:41:35] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc5a9e845100008657bbd"}]}
+--- End Response ---
+
+--- [06-07-2026 20:41:36] [SUCCESS] Shiprocket -> Status: 204 ---
+
+--- End Response ---
+
+--- [06-07-2026 20:41:39] [SUCCESS] MeeHelp -> Status: 200 ---
+ {"status":true,"otp":9739,"message":"user found"}
+--- End Response ---
+
+--- [06-07-2026 20:41:41] [FAILED] Nathabit_WhatsApp -> Status: 401 ---
+{"detail":{"message":"Please restart the app to update. If that doesn't work, reinstall it from the store."}}
+--- End Response ---
+
+--- [06-07-2026 20:41:55] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc5be60e47b0008220379"}]}
+--- End Response ---
+
+--- [06-07-2026 20:41:58] [FAILED] Shiprocket -> Status: 400 ---
+{"message":"Your login is blocked for next half an hour.","success":false}
+--- End Response ---
+
+--- [06-07-2026 20:42:01] [SUCCESS] MeeHelp -> Status: 200 ---
+ {"status":true,"otp":7598,"message":"user found"}
+--- End Response ---
+
+--- [06-07-2026 20:42:16] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc5d260e47b0008220388"}]}
+--- End Response ---
+
+--- [06-07-2026 20:42:22] [SUCCESS] MeeHelp -> Status: 200 ---
+ {"status":true,"otp":"5435","message":"user found"}
+--- End Response ---
+
+--- [06-07-2026 20:44:16] [SUCCESS] HealthKart -> Status: 200 ---
+{"results":{"exception":false,"msgs":["Sms sent to User"],"uid":null,"uType":"signup","guestAlreadyExist":false,"stId":1,"unverifiedGuestExist":false,"userExist":false},"statusCode":200}
+--- End Response ---
+
+--- [06-07-2026 20:44:18] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc64ce845100008657bf3"}]}
+--- End Response ---
+
+--- [06-07-2026 20:44:19] [FAILED] Shiprocket -> Status: 400 ---
+{"message":"Your login is blocked for next half an hour.","success":false}
+--- End Response ---
+
+--- [06-07-2026 20:44:22] [SUCCESS] MeeHelp -> Status: 200 ---
+ {"status":true,"otp":9415,"message":"user found"}
+--- End Response ---
+
+--- [06-07-2026 20:44:23] [FAILED] Nathabit_WhatsApp -> Status: 401 ---
+{"detail":{"message":"Please restart the app to update. If that doesn't work, reinstall it from the store."}}
+--- End Response ---
+
+--- [06-07-2026 20:44:39] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc661e845100008657bf6"}]}
+--- End Response ---
+
+--- [06-07-2026 20:44:44] [SUCCESS] MeeHelp -> Status: 200 ---
+ {"status":true,"otp":8349,"message":"user found"}
+--- End Response ---
+
+--- [06-07-2026 20:45:00] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc67660e47b000822039d"}]}
+--- End Response ---
+
+--- [06-07-2026 20:45:06] [SUCCESS] MeeHelp -> Status: 200 ---
+ {"status":true,"otp":"5435","message":"user found"}
+--- End Response ---
+
+--- [06-07-2026 20:45:21] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc68b60e47b00082203a0"}]}
+--- End Response ---
+
+--- [06-07-2026 20:45:42] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc6a160e47b00082203a3"}]}
+--- End Response ---
+
+--- [06-07-2026 20:46:04] [FAILED] NNNOW -> Status: 400 ---
+{"status":false,"data":{"statusCode":400,"message":{"status":"400","code":"","title":"","detail":"Your attempt to generate OTP has been exhausted"},"correlationId":"efcc2ca9-8261-4e8e-99d0-9a6ebb8e2a82"}}
+--- End Response ---
+
+--- [06-07-2026 20:46:25] [FAILED] NNNOW -> Status: 400 ---
+{"status":false,"data":{"statusCode":400,"message":{"status":"400","code":"","title":"","detail":"Your attempt to generate OTP has been exhausted"},"correlationId":"26dbbf9f-cdfd-42bb-afad-fd5d7141fee4"}}
+--- End Response ---
+
+--- [06-07-2026 20:49:34] [SUCCESS] HealthKart -> Status: 200 ---
+{"results":{"exception":false,"msgs":["Sms sent to User"],"uid":null,"uType":"signup","guestAlreadyExist":false,"stId":1,"unverifiedGuestExist":false,"userExist":false},"statusCode":200}
+--- End Response ---
+
+--- [06-07-2026 20:49:36] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc78a60e47b00082203ca"}]}
+--- End Response ---
+
+--- [06-07-2026 20:49:37] [FAILED] Shiprocket -> Status: 400 ---
+{"message":"Your login is blocked for next half an hour.","success":false}
+--- End Response ---
+
+--- [06-07-2026 20:49:40] [SUCCESS] MeeHelp -> Status: 200 ---
+ {"status":true,"otp":4182,"message":"user found"}
+--- End Response ---
+
+--- [06-07-2026 20:49:41] [FAILED] Nathabit_WhatsApp -> Status: 401 ---
+{"detail":{"message":"Please restart the app to update. If that doesn't work, reinstall it from the store."}}
+--- End Response ---
+
+--- [06-07-2026 20:49:56] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc79f60e47b00082203cd"}]}
+--- End Response ---
+
+--- [06-07-2026 20:50:02] [SUCCESS] MeeHelp -> Status: 200 ---
+ {"status":true,"otp":7948,"message":"user found"}
+--- End Response ---
+
+--- [06-07-2026 20:50:18] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a4bc7b460e47b00082203d0"}]}
+--- End Response ---
+
+--- [06-07-2026 20:52:27] [FAILED] Nathabit_WhatsApp -> Status: 401 ---
+{"detail":{"message":"Please restart the app to update. If that doesn't work, reinstall it from the store."}}
+--- End Response ---
+
+--- [10-07-2026 14:02:04] [SUCCESS] HealthKart -> Status: 200 ---
+{"results":{"exception":false,"msgs":["Sms sent to User"],"uid":null,"uType":"signup","guestAlreadyExist":false,"stId":1,"unverifiedGuestExist":false,"userExist":false},"statusCode":200}
+--- End Response ---
+
+--- [10-07-2026 14:02:06] [SUCCESS] NNNOW -> Status: 200 ---
+{"status":true,"data":[{"sessionID":"6a50ae07c567210008744874"}]}
+--- End Response ---
+
+--- [10-07-2026 14:02:08] [SUCCESS] Shiprocket -> Status: 204 ---
+
+--- End Response ---
+
+--- [10-07-2026 14:02:09] [SUCCESS] MeeHelp -> Status: 200 ---
+ false
+--- End Response ---
+
+--- [10-07-2026 14:02:10] [FAILED] Nathabit_WhatsApp -> Status: 401 ---
+{"detail":{"message":"Please restart the app to update. If that doesn't work, reinstall it from the store."}}
+--- End Response ---
+
+--- [13-07-2026 10:58:36] [SUCCESS] HealthKart -> Status: 200 ---
+{"results":{"exception":false,"msgs":["Sms sent to User"],"uid":null,"uType":"signup","guestAlreadyExist":false,"stId":1,"unverifiedGuestExist":false,"userExist":false},"statusCode":200}
+--- End Response ---
+
+--- [13-07-2026 10:58:48] [ERROR] NNNOW -> Error: HTTPSConnectionPool(host='api.nnnow.com', port=443): Read timed out. (read timeout=10)
+--- End Response ---
+
